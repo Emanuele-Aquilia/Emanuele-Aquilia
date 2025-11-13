@@ -81,4 +81,4 @@ Assisted students in programming (Python, C), mathematics, and physics, supporti
 
 ---
 
-- **CV in Italiano (PDF)**: [Scarica il CV in Italiano](./CV_ITA.pdf)
+- **CV in Italiano (PDF)**: [Scarica il CV in Italiano](./CV_ita.pdf)
