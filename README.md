@@ -23,11 +23,11 @@ In my free time, I enjoy gaming, reading, and traveling.
 
 ## Projects
 
-### [Rowhammer Emulator in QEMU](#)
+### Rowhammer Emulator in QEMU
 Simulator for Rowhammer attacks in virtualized environments using QEMU.  
 Implements memory access patterns, attack techniques (single-sided, double-sided), mitigations (PARA), and logging tools.
 
-### [Firmware Vertigo and Refuso](#)
+### Firmware Vertigo and Refuso
 Firmware development for stepper motor control boards in a bike gear system.  
 Includes sequential gear control and CAN-based feedback transmission.
 
