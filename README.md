@@ -77,8 +77,8 @@ Assisted students in programming (Python, C), mathematics, and physics, supporti
 📫 [ema.aqui.02@gmail.com](mailto:ema.aqui.02@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/emanuele-aquilia-775072266/)  
 💻 [GitHub](https://github.com/Emanuele-Aquilia)  
-📄 [Download CV](CV_eng.pdf)
+📄 [Download CV (English)](https://raw.githubusercontent.com/Emanuele-Aquilia/CV/main/English/CV_eng.pdf)
 
 ---
 
-- **CV in Italiano (PDF)**: [Scarica il CV in Italiano](./CV_ita.pdf)
+- **CV in Italiano (PDF)**: [Scarica il CV in Italiano](https://raw.githubusercontent.com/Emanuele-Aquilia/CV/main/Italiano/CV_ita.pdf)
